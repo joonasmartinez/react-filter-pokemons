@@ -1,0 +1,22 @@
+h3{
+    color:red;
+    text-transform: uppercase;
+}
+
+img{
+    border:1px solid grey;
+    border-radius: 50%;
+}
+
+.box-card{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border:1px dashed red;
+    padding:5px;
+    max-width: 200px;
+    border-radius: 20px;
+}
+button{
+    margin:5px;
+}
